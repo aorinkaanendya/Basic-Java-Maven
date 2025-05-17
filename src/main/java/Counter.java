@@ -4,10 +4,10 @@ public class Counter {
     private int count;
 
     public Counter() {
-        this.resett();
+        this.reset();
     }
 
-    public void resett() {
+    public void reset() {
         count = 0;
     }
 
